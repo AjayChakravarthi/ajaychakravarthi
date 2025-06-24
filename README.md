@@ -6,8 +6,8 @@
 
 ## 🚀 Projects
 - [JWT Auth API](https://github.com/ajaychakravarthi/jwt-auth-spring)
-- [E-commerce Backend](https://github.com/ajaychakravarthi/ecommerce-backend)
-- [Design Patterns in Java](https://github.com/ajaychakravarthi/design-patterns-java)
+- [user-management-springboot](https://github.com/AjayChakravarthi/user-api-dummyjson-springboot)
+- [Design Patterns in Java](https://github.com/AjayChakravarthi/Factory-Pattern)
 
 ---
 
