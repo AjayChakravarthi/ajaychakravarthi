@@ -33,7 +33,7 @@
 ## 📫 Connect with Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=700&color=F7F7F7&center=true&vCenter=true&width=500&lines=Let's+connect!;Follow+me+on+LinkedIn;Drop+an+email+anytime" alt="Connect Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=700&color=F7F7F7&center=true&vCenter=true&width=500&lines=Let's+connect!;Drop+an+email+anytime" alt="Connect Typing Animation" />
 </p>
 
 <p align="center">
