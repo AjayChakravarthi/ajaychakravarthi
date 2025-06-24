@@ -3,7 +3,7 @@
   <img src="https://github.com/ajaychakravarthi/ajaychakravarthi/blob/main/assets/profile-banner.png" />
 </p>
 
-# 👋 Hi, I'm Ajay Chakravarthi
+#  Hi, I'm Ajay Chakravarthi
 
 Java Backend Developer | Spring Boot | Microservices | REST APIs
 
@@ -28,15 +28,6 @@ Java Backend Developer | Spring Boot | Microservices | REST APIs
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)](https://www.jetbrains.com/idea/)
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ajaychakravarthi&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaychakravarthi&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaychakravarthi&layout=compact&theme=radical" />
-</p>
 
 ---
 
